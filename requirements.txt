@@ -1,0 +1,14 @@
+# Django REST Framework API with CRUD & Authentication
+# Educational Project Dependencies
+
+# Core Django Framework
+# Django 4.2.7: Stable LTS version with excellent community support
+django==4.2.7
+
+# Django REST Framework
+# DRF 3.14.0: Stable version for building RESTful APIs
+djangorestframework==3.14.0
+
+# JWT Authentication (Bonus Lesson)
+# Simple JWT implementation for DRF
+djangorestframework-simplejwt==5.3.0
